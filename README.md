@@ -12,7 +12,7 @@ Como não tenho um banco de dados de todos os ativos nacionais e internacionais,
 por conta própria, ou conectar a um banco de dados e puxar ou algum arquivo auxiliar para carregar.
 
 ## Uso
-Passar somente a pasta onde estão todas as notas. O sistema é recursivo e irá procurar por todas os PDFs em todas as sub pastas
+Passar somente a pasta onde estão todas as notas. O sistema é recursivo e irá procurar por todos os PDFs em todas as sub pastas
 
 Somente irá verificar as linhas se encontrar o PDF de nota de corretagem. Geralmente o nome da corretora fica nas primeiras linhas.
 Irá ignorar os arquivos PDFs sem o padrão do nome da corretora.

@@ -3,7 +3,7 @@
 ## Objetivo 
 Projeto visa percorrer todas as notas de corretagem das corretoras CLEAR, MODAL e AVENUE para montar o xls que será importado no aplicativo DOMU
 
-## Disclamer
+## Disclaimer
 * O código foi construído visando somente as ações que tenho ou que já tive em carteira
 * As listas das subscrições feitas e venda de subscrições para ignorar dentro do código também são individuais
 * Ignorei as taxas de corretagem em todas as notas

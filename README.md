@@ -4,11 +4,11 @@
 Projeto visa percorrer todas as notas de corretagem das corretoras CLEAR, MODAL e AVENUE para montar o xls que será importado no aplicativo DOMU
 
 ## Disclamer
-* O código foi construído visando somente as ações que tenho
+* O código foi construído visando somente as ações que tenho ou que já tive em carteira
 * As listas das subscrições feitas e venda de subscrições para ignorar dentro do código também são individuais
 * Ignorei as taxas de corretagem em todas as notas
 
-Como não tenho um banco de dados de todos os ativos nacionais e internacionais, terá que adicionar e remover as litas em memória
+Como não tenho um banco de dados de todos os ativos nacionais e internacionais, terá que adicionar e remover as listas em memória
 por conta própria, ou conectar a um banco de dados e puxar ou algum arquivo auxiliar para carregar.
 
 ## Uso
